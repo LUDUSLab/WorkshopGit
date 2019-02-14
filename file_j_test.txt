@@ -1,0 +1,2 @@
+Olá mundo!
+Este arquivo é muito útil para todas as linguagens.
